@@ -1,5 +1,5 @@
 # EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands
-# EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands
+## Date:
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 ## DML(Data Manipulation Language)
@@ -172,3 +172,6 @@ insert into manager values(7369,'Dharsan',2500,500,30000,'30-June-81','clerk',10
 
 ### OUTPUT:
 ![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/123c7d66-c434-4809-8e89-85fefdf37f24)
+
+### RESULT:
+The manager database and DML queries using SQL has beem created and executed successfully.
